@@ -2,7 +2,7 @@
 ## Crime and Education Lab New York
 Repository for the Urban Lab Assessment
 
-I took this Assessment from the Crime and Education Lab New York. 
+*I took this Assessment from the Crime and Education Lab New York.*
 
 Instructions are the following:  
 
