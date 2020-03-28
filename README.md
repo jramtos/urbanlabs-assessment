@@ -14,9 +14,9 @@ Back in January 2010, the NYC District Attorney’s (DA’s) Office implemented 
 ### Data
 There are two main datasets, arrests.csv and demo.csv. The arrests.csv file contains information on each arrest made from 2008 through 2011, and includes an arrest ID, a person ID, the date of arrest, and whether the arrest was for a misdemeanor or felony crime. The demo.csv file contains demographic data on each person found in the arrest file, including birthdate, gender, and home precinct.  
 
-### Analysis
+### Analysis. 
 
-#### Part1: Variable Creation
+### Part1: Variable Creation
 In this section, you’ll create an analysis dataset allowing you to look more closely at arrestees impacted by the program.
 1. For the arrests that occurred post-implementation, create the following covariates: • Age
 • Gender
